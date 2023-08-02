@@ -7,5 +7,3 @@ https://a-ghoujal.github.io/clone-homework/
 # Here is the originl website 
 
 https://www.patreon.com/
-
-The website not done yet im having issue with the footer :D 
